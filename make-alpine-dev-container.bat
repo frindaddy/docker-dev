@@ -1,0 +1,1 @@
+docker run -d --name alpine-dev alpine sleep infinity
